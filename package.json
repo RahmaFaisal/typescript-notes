@@ -1,0 +1,23 @@
+{
+  "name": "typescript-notes",
+  "version": "1.0.0",
+  "description": "typescript notes , example &amp;  training",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"npx tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahmaFaisal/typescript-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahmaFaisal/typescript-notes/issues"
+  },
+  "homepage": "https://github.com/RahmaFaisal/typescript-notes#readme",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
